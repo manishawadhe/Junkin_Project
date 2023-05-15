@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-15T16:57:51 IST" name="Default suite" finished-at="2023-05-15T16:57:56 IST" duration-ms="4757">
+    <groups>
+    </groups>
+    <test started-at="2023-05-15T16:57:51 IST" name="Default test" finished-at="2023-05-15T16:57:56 IST" duration-ms="4757">
+      <class name="junkinProject.junkin">
+        <test-method is-config="true" signature="getWebsite()[pri:0, instance:junkinProject.junkin@7c729a55]" started-at="2023-05-15T16:57:51 IST" name="getWebsite" finished-at="2023-05-15T16:57:56 IST" duration-ms="4325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWebsite -->
+        <test-method signature="orangeHRM()[pri:0, instance:junkinProject.junkin@7c729a55]" started-at="2023-05-15T16:57:56 IST" name="orangeHRM" finished-at="2023-05-15T16:57:56 IST" duration-ms="403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orangeHRM -->
+      </class> <!-- junkinProject.junkin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
